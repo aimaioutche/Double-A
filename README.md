@@ -32,6 +32,6 @@ _Learn more about Aimaioutche!_
 ### Special Thanks To..
 
 
-_You!_
+_You!_                                                                                                                                   
 ~ Thank You For Reading ~                                                                                                         
   ＼＼\\ ٩(๑❛ワ❛๑)و //／／
