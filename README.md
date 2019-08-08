@@ -30,12 +30,12 @@ _Learn more about Aimaioutche!_
  I have a pet alien from space, his name is Doughy. Alexa, play DoughyDoug de l'Espace!
  
  
-<h3> Cinel
+### Cinel
  
   Did i make it?
 
 
-<h3> Special Thanks To..
+### Special Thanks To..
 
  _You!_                                                                                                                                   
 Thank You for reading!
