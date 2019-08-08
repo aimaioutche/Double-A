@@ -40,6 +40,7 @@ _Learn more about Aimaioutche!_
 _You!_
 Thank You for reading!
 
+
 ~Thank            You~
 ＼＼\\ ٩(๑❛ワ❛๑)و //／／
 
