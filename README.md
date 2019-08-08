@@ -35,6 +35,9 @@ _Learn more about Aimaioutche!_
  
  Did i make it?
 
+ ### Special thanks to..
+
+You!
 
 ```Thank You for reading!
 
