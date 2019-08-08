@@ -32,12 +32,12 @@ _Learn more about Aimaioutche!_
  
 <h3> Cinel
  
- Did i make it?
+  Did i make it?
 
 
- <h3> Special Thanks To..
+<h3> Special Thanks To..
 
-_You!_                                                                                                                                   
+ _You!_                                                                                                                                   
 Thank You for reading!
 
 
