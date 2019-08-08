@@ -35,13 +35,11 @@ _Learn more about Aimaioutche!_
  Did i make it?
 
 
- ### Special thanks to..
+ ### Special Thanks To..
 
-You!
-
-```Thank You for reading!
+_You!_
+Thank You for reading!
 
 ~Thank            You~
 ＼＼\\ ٩(๑❛ワ❛๑)و //／／
-```
 
