@@ -1,16 +1,17 @@
 ## **Welcome to Double-A, AimaioutcheAgence**
 
+### About Double-A
 
-This website was made for extreme funzies ! (Shoutout to Fafu, love you bro)
+This website was made for the funzies ! (Shoutout to Fafu, love you bro)
 
-Double-A is an agence created by the one and only, Aimaioutche. For now, AimaioutcheAgence doesn't have any particular or profesionnal 
+Double-A is an agence created by the one and only: Aimaioutche. For now, AimaioutcheAgence doesn't have any particular or profesionnal 
 reason to exist, other than being the creation of a young woman who's goal is to make cool and entertaining content to spice up her 
 life, and to have as much fun as possible!
 
-### Ramdom Facts
+### Random Facts
 
 
-_Learn more about Aimaioutche!_
+#### _Learn more about Aimaioutche!_
 
 
  Aimaioutche is a nickname I got while playing Fortnite.. crazy!
@@ -19,11 +20,11 @@ _Learn more about Aimaioutche!_
  
  But I have to say, phở is my ultimate fav.
  
- Pocahontas is sometimes jealous of my personal magnificent brown waterfall.
+ Pocahontas is sometimes jealous of my magnificent brown waterfall.
  
  Wearing two big hoops on my nose is part of my everyday life.
  
- My spirit animal is the lamb.
+ My spirit animal is the lamb and the yáng.
  
  My fingers like touching black and white buttons and petting 4 strings at the same time.
  
