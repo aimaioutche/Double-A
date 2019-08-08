@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## **Welcome to Double-A, AimaioutcheAgence**
 
-You can use the [editor on GitHub](https://github.com/aimaioutche/DoubleA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website was made for extreme funzies ! (Shoutout to Fafu, love you bro)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Double-A is an agence created by the one and only, Aimaioutche. For now, AimaioutcheAgence doesn't have any particular or profesionnal reason to exist, other than being the creation of a young woman who's goal is to make cool and entertaining content to spice up her life, and to have as much fun as possible!
 
-### Markdown
+### Ramdom Facts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Learn more about Aimaioutche!_
 
-```markdown
-Syntax highlighted code block
+ Aimaioutche is a nickname I got while playing Fortnite.. crazy!
+ Burgers or fish and chips aren't my style. I'm into baguettes.
+ But I have to say, phở is my ultimate fav.
+ Pocahontas is sometimes jealous of my personal magnificent brown waterfall.
+ Wearing two big hoops on my nose is part of my everyday life.
+ My spirit animal is the lamb.
+ My fingers like touching black and white buttons and petting 4 strings at the same time.
+ I have a pet alien from space, his name is Doughy. Alexa, play DoughyDoug de l'Espace!
+ 
+ ### Cinel
+ 
+ Did i make it?
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+```Thank You for reading!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+~Thank            You~
+＼＼\\ ٩(๑❛ワ❛๑)و //／／
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aimaioutche/DoubleA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
