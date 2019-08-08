@@ -29,7 +29,9 @@ _Learn more about Aimaioutche!_
  
  I have a pet alien from space, his name is Doughy. Alexa, play DoughyDoug de l'Espace!
  
-<h3>
+### Special Thanks To..
 
-  ~ Thank You For Reading ~                                                                                                         
-    ＼＼\\ ٩(๑❛ワ❛๑)و //／／
+
+_You!_
+~ Thank You For Reading ~                                                                                                         
+  ＼＼\\ ٩(๑❛ワ❛๑)و //／／
